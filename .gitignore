@@ -1,0 +1,11 @@
+*.csv
+*.pyc
+*.log
+models/
+data/
+results/
+*/old/
+/cc/spark-warehouse/**/*
+nohup.out
+old/
+results/
